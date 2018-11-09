@@ -182,17 +182,17 @@
 					</div>
 					<div class="expanded__content">
 							<h2 class="expanded__title">Let's talk about you! How can we collaborate? </h3>
-							<form netlify>
+							<form name="contact" method="POST" netlify>
 										<label for="first">Your name</label>
-										<input type="text" id="name" placeholder="Type...">
+										<input type="text" name="name" placeholder="Type...">
 								
 										<label for="second">Your email</label>
-										<input type="email" id="email" placeholder="Type...">
+										<input type="email" name="email" placeholder="Type...">
 									<label for='textarea'>Tell us about your project, question, thoughts and/or whether or not you feel Mac N' Cheese is acceptable adult food.</label>
-									<textarea placeholder="tell us about your project" id='message'></textarea>
-								
+									<textarea placeholder="tell us about your project" name="message"></textarea>
+								<button class="button button__accent">submit</button>
 							</form>
-						<button class="button button__accent">submit</button>
+						
 					</div>
 				</div>
 			</div>
