@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://xenodochial-panini-8b0a85.netlify.com/* http://wearelittleeye.com/:splat 301!
