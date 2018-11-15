@@ -218,7 +218,9 @@
 							<label for='textarea'>Tell us about your project, question, thoughts and/or whether or not you feel Mac N'
 								Cheese is acceptable adult food.</label>
 							<textarea placeholder="tell us about your project" name="message"></textarea>
-							<div data-netlify-recaptcha></div>
+							<p class="hidden">
+								<label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+							</p>
 							<button class="button button__accent">submit</button>
 						</form>
 

@@ -363,11 +363,9 @@ html {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   -moz-font-feature-settings: "liga" on; }
-
-.form button {
-  margin-top: 1em !important;
+.hidden {
+  display: none;
 }
-
 p {
   margin-bottom: 1.3em; }
 
