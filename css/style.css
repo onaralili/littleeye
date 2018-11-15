@@ -365,7 +365,7 @@ html {
   -moz-font-feature-settings: "liga" on; }
 
 .form button {
-  margin-top: 1em;
+  margin-top: 1em !important;
 }
 
 p {
