@@ -890,7 +890,7 @@ select {
   background-color: #70BA98; }
 
 .hero__overlay--gradient {
-  background: linear-gradient(rgb(161,196,161), rgb(161,173,116));
+  background: linear-gradient(rgba(161,196,161,.8), rgba(161,173,116, .8));
 }
 
 
