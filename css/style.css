@@ -887,11 +887,7 @@ select {
   width: 100%;
   opacity: 0.90;
   z-index: 1;
-  background-color: #70BA98; }
-
-.hero__overlay--gradient {
-  background: linear-gradient(rgba(161,196,161,.8), rgba(161,173,116, .8));
-}
+  background-color: #3E9358; }
 
 
   /* donateinfo */
