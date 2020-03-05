@@ -743,7 +743,7 @@ select {
   z-index: 100;
   width: 100%;
   background: rgb(0,255,194);
-  background: linear-gradient(90deg, rgb(49,37,255) 0%, rgb(131,0,209) 100%);
+  background: linear-gradient(rgb(161,196,161), rgb(161,173,116));
   transition: 0.7s; }
   .navbar--nofixed {
     position: relative;
@@ -885,12 +885,12 @@ select {
   position: absolute;
   height: 100%;
   width: 100%;
-  opacity: 0.70;
+  opacity: 0.40;
   z-index: 1;
   background-color: #70BA98; }
 
 .hero__overlay--gradient {
-  background: linear-gradient(90deg, rgb(161,196,161) 100%, rgb(161,173,116) 100%);
+  background: linear-gradient(rgb(161,196,161), rgb(161,173,116));
 }
 
 
