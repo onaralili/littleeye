@@ -743,7 +743,7 @@ select {
   z-index: 100;
   width: 100%;
   background: rgb(0,255,194);
-  background: linear-gradient(90deg, rgba(49,37,255,1) 0%, rgba(131,0,209,0.7021183473389356) 100%);
+  background: linear-gradient(90deg, rgb(49,37,255) 0%, rgb(131,0,209) 100%);
   transition: 0.7s; }
   .navbar--nofixed {
     position: relative;
