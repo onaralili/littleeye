@@ -885,7 +885,7 @@ select {
   position: absolute;
   height: 100%;
   width: 100%;
-  opacity: 0.40;
+  opacity: 0.80;
   z-index: 1;
   background-color: #70BA98; }
 
@@ -902,7 +902,7 @@ select {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  opacity: 0.66;
+  opacity: 0.2;
   z-index: 2; }
 
   /* donateinfo */
