@@ -887,14 +887,12 @@ select {
   width: 100%;
   opacity: 0.70;
   z-index: 1;
-  background-color: #6C63FF; }
+  background-color: #70BA98; }
 
 .hero__overlay--gradient {
   background: linear-gradient(90deg, rgba(161,196,161,1) 0%, rgba(161,173,116,1) 100%);
 }
 
-.hero__overlay--gradientVertical {
-  background: linear-gradient(to bottom, #6C63FF, #4641FF); }
 
 .hero__mask {
   position: absolute;
