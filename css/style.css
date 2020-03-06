@@ -30,7 +30,8 @@ h1 {
 font-family: 'Shrikhand', cursive;}
 
 h2 {
-   font-family: 'Shrikhand', cursive;}
+   font-family: 'Shrikhand', cursive;
+font-weight: normal}
 
 /* Grouping content
    ========================================================================== */
