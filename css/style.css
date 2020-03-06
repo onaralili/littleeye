@@ -397,14 +397,16 @@ font-family: 'Shrikhand', cursive;}
 
 h2 {
   font-size: 2em;
-  font-weight: bolder;
+  font-weight: normal;
   color: slateblue; }
 
 h3 {
-  font-size: 1.44em; }
+  font-size: 1.44em;
+font-family: 'Shrikhand', cursive;}
 
 h4 {
-  font-size: 1.2em; }
+  font-size: 1.2em;
+font-family: 'Shrikhand', cursive;}
 
 small, h6 {
   font-size: 0.833em;
